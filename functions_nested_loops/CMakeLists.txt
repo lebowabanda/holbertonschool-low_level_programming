@@ -21,6 +21,9 @@ file (GLOB SHARED_SRC
     "4-isalpha.c"
     "5-sign.c"
     "6-abs.c"
+    "7-print_last_digit.c"
+    "8-24_hours.c"
+    "9-times_table.c"
   
 
 )

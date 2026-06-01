@@ -20,6 +20,7 @@ file (GLOB SHARED_SRC
   "3-islower.c"
     "4-isalpha.c"
     "5-sign.c"
+    "6-abs.c"
   
 
 )

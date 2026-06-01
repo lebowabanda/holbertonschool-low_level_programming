@@ -1,0 +1,4 @@
+/mnt/c/Users/LBanda/Desktop/holbertonschool-low_level_programming/functions_nested_loops/build/CMakeFiles/shared_lib.dir
+/mnt/c/Users/LBanda/Desktop/holbertonschool-low_level_programming/functions_nested_loops/build/CMakeFiles/1-main.dir
+/mnt/c/Users/LBanda/Desktop/holbertonschool-low_level_programming/functions_nested_loops/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/LBanda/Desktop/holbertonschool-low_level_programming/functions_nested_loops/build/CMakeFiles/rebuild_cache.dir

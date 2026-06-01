@@ -1,0 +1,2 @@
+/usr/bin/ar qc libshared_lib.a "CMakeFiles/shared_lib.dir/0-putchar.c.o" "CMakeFiles/shared_lib.dir/1-alphabet.c.o" "CMakeFiles/shared_lib.dir/2-print_alphabet_x10.c.o" "CMakeFiles/shared_lib.dir/3-islower.c.o" "CMakeFiles/shared_lib.dir/4-isalpha.c.o" "CMakeFiles/shared_lib.dir/5-sign.c.o" "CMakeFiles/shared_lib.dir/6-abs.c.o" CMakeFiles/shared_lib.dir/_putchar.c.o
+/usr/bin/ranlib libshared_lib.a

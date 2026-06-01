@@ -1,0 +1,56 @@
+[
+{
+  "directory": "/mnt/c/Users/LBanda/Desktop/holbertonschool-low_level_programming/functions_nested_loops/build",
+  "command": "/usr/bin/cc    -o CMakeFiles/shared_lib.dir/0-putchar.c.o -c /mnt/c/Users/LBanda/Desktop/holbertonschool-low_level_programming/functions_nested_loops/0-putchar.c",
+  "file": "/mnt/c/Users/LBanda/Desktop/holbertonschool-low_level_programming/functions_nested_loops/0-putchar.c",
+  "output": "CMakeFiles/shared_lib.dir/0-putchar.c.o"
+},
+{
+  "directory": "/mnt/c/Users/LBanda/Desktop/holbertonschool-low_level_programming/functions_nested_loops/build",
+  "command": "/usr/bin/cc    -o CMakeFiles/shared_lib.dir/1-alphabet.c.o -c /mnt/c/Users/LBanda/Desktop/holbertonschool-low_level_programming/functions_nested_loops/1-alphabet.c",
+  "file": "/mnt/c/Users/LBanda/Desktop/holbertonschool-low_level_programming/functions_nested_loops/1-alphabet.c",
+  "output": "CMakeFiles/shared_lib.dir/1-alphabet.c.o"
+},
+{
+  "directory": "/mnt/c/Users/LBanda/Desktop/holbertonschool-low_level_programming/functions_nested_loops/build",
+  "command": "/usr/bin/cc    -o CMakeFiles/shared_lib.dir/2-print_alphabet_x10.c.o -c /mnt/c/Users/LBanda/Desktop/holbertonschool-low_level_programming/functions_nested_loops/2-print_alphabet_x10.c",
+  "file": "/mnt/c/Users/LBanda/Desktop/holbertonschool-low_level_programming/functions_nested_loops/2-print_alphabet_x10.c",
+  "output": "CMakeFiles/shared_lib.dir/2-print_alphabet_x10.c.o"
+},
+{
+  "directory": "/mnt/c/Users/LBanda/Desktop/holbertonschool-low_level_programming/functions_nested_loops/build",
+  "command": "/usr/bin/cc    -o CMakeFiles/shared_lib.dir/3-islower.c.o -c /mnt/c/Users/LBanda/Desktop/holbertonschool-low_level_programming/functions_nested_loops/3-islower.c",
+  "file": "/mnt/c/Users/LBanda/Desktop/holbertonschool-low_level_programming/functions_nested_loops/3-islower.c",
+  "output": "CMakeFiles/shared_lib.dir/3-islower.c.o"
+},
+{
+  "directory": "/mnt/c/Users/LBanda/Desktop/holbertonschool-low_level_programming/functions_nested_loops/build",
+  "command": "/usr/bin/cc    -o CMakeFiles/shared_lib.dir/4-isalpha.c.o -c /mnt/c/Users/LBanda/Desktop/holbertonschool-low_level_programming/functions_nested_loops/4-isalpha.c",
+  "file": "/mnt/c/Users/LBanda/Desktop/holbertonschool-low_level_programming/functions_nested_loops/4-isalpha.c",
+  "output": "CMakeFiles/shared_lib.dir/4-isalpha.c.o"
+},
+{
+  "directory": "/mnt/c/Users/LBanda/Desktop/holbertonschool-low_level_programming/functions_nested_loops/build",
+  "command": "/usr/bin/cc    -o CMakeFiles/shared_lib.dir/5-sign.c.o -c /mnt/c/Users/LBanda/Desktop/holbertonschool-low_level_programming/functions_nested_loops/5-sign.c",
+  "file": "/mnt/c/Users/LBanda/Desktop/holbertonschool-low_level_programming/functions_nested_loops/5-sign.c",
+  "output": "CMakeFiles/shared_lib.dir/5-sign.c.o"
+},
+{
+  "directory": "/mnt/c/Users/LBanda/Desktop/holbertonschool-low_level_programming/functions_nested_loops/build",
+  "command": "/usr/bin/cc    -o CMakeFiles/shared_lib.dir/6-abs.c.o -c /mnt/c/Users/LBanda/Desktop/holbertonschool-low_level_programming/functions_nested_loops/6-abs.c",
+  "file": "/mnt/c/Users/LBanda/Desktop/holbertonschool-low_level_programming/functions_nested_loops/6-abs.c",
+  "output": "CMakeFiles/shared_lib.dir/6-abs.c.o"
+},
+{
+  "directory": "/mnt/c/Users/LBanda/Desktop/holbertonschool-low_level_programming/functions_nested_loops/build",
+  "command": "/usr/bin/cc    -o CMakeFiles/shared_lib.dir/_putchar.c.o -c /mnt/c/Users/LBanda/Desktop/holbertonschool-low_level_programming/functions_nested_loops/_putchar.c",
+  "file": "/mnt/c/Users/LBanda/Desktop/holbertonschool-low_level_programming/functions_nested_loops/_putchar.c",
+  "output": "CMakeFiles/shared_lib.dir/_putchar.c.o"
+},
+{
+  "directory": "/mnt/c/Users/LBanda/Desktop/holbertonschool-low_level_programming/functions_nested_loops/build",
+  "command": "/usr/bin/cc   -Wall -pedantic -Werror -Wextra -g -std=gnu89 -o CMakeFiles/1-main.dir/1-main.c.o -c /mnt/c/Users/LBanda/Desktop/holbertonschool-low_level_programming/functions_nested_loops/1-main.c",
+  "file": "/mnt/c/Users/LBanda/Desktop/holbertonschool-low_level_programming/functions_nested_loops/1-main.c",
+  "output": "CMakeFiles/1-main.dir/1-main.c.o"
+}
+]

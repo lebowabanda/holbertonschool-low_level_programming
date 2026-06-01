@@ -13,8 +13,10 @@ set(CMAKE_C_STANDARD_REQUIRED ON)
 
 # Files become a shared library
 file (GLOB SHARED_SRC
+"_putchar.c"
   "0-putchar.c"
   "1-alphabet.c"
+  "2-print_alphabet_x10.c"
   
 
 )

@@ -14,6 +14,7 @@ set(CMAKE_C_STANDARD_REQUIRED ON)
 # Files become a shared library
 file (GLOB SHARED_SRC
   "0-putchar.c"
+  "1-alphabet.c"
   
 
 )
@@ -29,7 +30,7 @@ foreach(main_files ${MAIN_FILES})
   add_executable(${target_name} ${main_files})
 
   target_link_libraries(${target_name} PRIVATE shared_lib)
-  target_compile_options(${target_name} PRIVATE -Wall -pedantic -Werror -Wextra -std=gnu89 )
+  target_compile_options(${target_name} PRIVATE -Wall -pedantic -Werror -Wextra -g -std=gnu89 )
 endforeach()
 # target_include_directories(${PROJECT_NAME}PRIVATE ${CMAKE_SOURCE_DIR})
 #compile flags for holberton requirements

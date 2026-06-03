@@ -16,6 +16,7 @@ file (GLOB SHARED_SRC
 "_putchar.c"
   "0-isupper.c"
   "1-isdigit.c"
+  "2-mul.c"
  
   
 

@@ -15,6 +15,7 @@ set(CMAKE_C_STANDARD_REQUIRED ON)
 file (GLOB SHARED_SRC
 "_putchar.c"
   "0-isupper.c"
+  "1-isdigit.c"
  
   
 

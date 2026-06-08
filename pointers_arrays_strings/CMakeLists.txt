@@ -14,17 +14,15 @@ set(CMAKE_C_STANDARD_REQUIRED ON)
 # Files become a shared library
 file (GLOB SHARED_SRC
 
-  "0-reset_to_98.c"
-  "1-swap.c"
-  "2-strlen.c"
-  "3-puts.c"
-  "4-print-rev.c"
-  "5-rev_string.c"
-  "6-puts2.c"
-  "7-puts_half.c"
-  "8-print_array.c"
-  "9-strcpy.c"
-  "100-atoi.c"
+"_putschar.c" 
+  "0-memset.c"
+  "1-memcpy.c"
+  "2-strchr.c"
+  "3-strspn.c"
+  "4-strpbrk.c"
+  "5-strstr.c"
+  "8-print_diagsums.c"
+
   
 
 )
